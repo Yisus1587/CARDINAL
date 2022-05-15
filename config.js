@@ -6,7 +6,7 @@ global.mods = ['5213324206574' , ''] // No tiene utilidad
 global.prems = ['' , ''] // No tiene utilidad
 
 // Nota: Puedes contactarme si necesitas ayuda con algo al +994407312387 (Solo temas de la instalación)
-// => Solo dudas sobre la instalación, temas generales contactarme +5213324206574 (Temas serios, si vas a intervenir al chat para molesrtar seras bloqueado/a) 
+// => Solo dudas sobre la instalación, temas generales co (Temas serios, si vas a intervenir al chat para molesrtar seras bloqueado/a) 
 // => NO ayudo a hacer Bots, ni crearlos, ni editarlos 
 // - Este es el Canal de The Shadow Brokers por si te interesa su canal de YouTube en https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA
 
@@ -49,8 +49,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'GataBot 🐈'
-global.author = 'Gata Dios'
+global.packname = 'CARDINAL'
+global.author = 'CARDINAL'
 
 
 //global.wait = '*Esperé un momento..*'
