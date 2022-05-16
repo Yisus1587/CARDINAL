@@ -1,7 +1,7 @@
 {
-  "name": "GATABOT",
-  "version": "10.8.9",
-  "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
+  "name": "CARDINAL",
+  "version": "1.4.1",
+  "description": "",
   "depecrated": false,
   "main": "index.js",
   "directories": {
